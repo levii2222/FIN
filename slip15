@@ -1,0 +1,271 @@
+Q1 (a) What are the Key Components of eIDAS? (15 Marks)
+Introduction
+eIDAS stands for Electronic Identification, Authentication and Trust Services. It is a European Union regulation that creates a secure framework for digital identity and electronic transactions.
+The key components of eIDAS help users, businesses, and governments perform trusted online activities.
+
+Key Components of eIDAS
+1. Electronic Identification (eID)
+Used to verify the digital identity of a person or organization.
+Examples:
+
+
+National digital ID
+
+
+Government login systems
+
+
+Online citizen identity cards
+
+
+Purpose:
+Secure online access and identity verification.
+
+2. Authentication
+Confirms that the user is genuine before access is granted.
+Methods:
+
+
+Password
+
+
+OTP
+
+
+Smart card
+
+
+Biometrics
+
+
+Purpose:
+Prevent unauthorized access.
+
+3. Trust Services
+Special services that make electronic transactions secure and legally valid.
+Includes:
+
+
+Electronic signatures
+
+
+Electronic seals
+
+
+Time stamps
+
+
+Electronic delivery services
+
+
+Website certificates
+
+
+
+4. Legal Recognition Across EU
+Digital identities and trust services are accepted across EU member countries.
+Purpose:
+Supports cross-border digital services.
+
+5. Security and Data Protection
+Uses cryptography, secure systems, and regulations to protect users.
+
+Conclusion
+The key components of eIDAS are electronic identification, authentication, trust services, legal recognition, and security controls.
+
+Q1 (b) What are the Types of Trust Services under eIDAS?
+Introduction
+Trust services are digital services that create trust in online transactions and documents.
+They are legally recognized under eIDAS.
+
+Types of Trust Services
+1. Electronic Signatures
+Used to sign documents digitally.
+Benefits:
+
+
+Legal validity
+
+
+Identity proof
+
+
+Prevents denial
+
+
+
+2. Electronic Seals
+Used by organizations to prove document authenticity.
+Example:
+Company certificate on official document.
+
+3. Electronic Time Stamps
+Shows the exact date and time when a document or transaction existed.
+Use:
+Useful in audits and legal cases.
+
+4. Electronic Registered Delivery Service
+Secure digital sending of documents and messages.
+Benefit:
+Proof of sending and receiving.
+
+5. Website Authentication Certificates
+Confirms a website is genuine and secure.
+Example:
+HTTPS certificate.
+
+Conclusion
+The main trust services under eIDAS are electronic signatures, seals, time stamps, registered delivery, and website certificates.
+
+Q1 (c) How Does eIDAS Ensure Security in Electronic Transactions?
+Introduction
+eIDAS ensures that online transactions are secure, trusted, and legally accepted.
+
+Security Measures of eIDAS
+1. Strong Identity Verification
+Uses trusted electronic IDs to verify users.
+
+2. Authentication Methods
+Uses password, OTP, smart cards, or biometrics.
+
+3. Electronic Signatures
+Ensures document authenticity and prevents tampering.
+
+4. Encryption and Cryptography
+Protects transaction data during transfer.
+
+5. Time Stamping
+Records exact time of transaction.
+
+6. Website Authentication
+Confirms secure websites.
+
+7. Legal Framework
+Provides rules and standards across EU countries.
+
+Conclusion
+eIDAS ensures security through identity checks, authentication, signatures, encryption, certificates, and legal trust.
+
+Q2. Describe About the Software Composition Analysis (SCA) in Security Case Study (15 Marks)
+Introduction
+Software Composition Analysis (SCA) is a security method used to identify and manage open-source and third-party software components inside an application.
+Modern software uses many libraries and frameworks. If any component has vulnerabilities, attackers can exploit it.
+
+Security Case Study
+Background
+A FinTech company develops a payment app using:
+
+
+Open-source login library
+
+
+Encryption package
+
+
+Payment APIs
+
+
+Developers use old third-party libraries without checking security.
+
+Problem
+One library has a known vulnerability.
+An attacker exploits it and:
+
+
+Steals user data
+
+
+Accesses payment records
+
+
+Causes fraud
+
+
+
+Impact
+
+
+Financial loss
+
+
+Data breach
+
+
+Reputation damage
+
+
+Compliance failure
+
+
+
+Applying SCA
+The company uses an SCA tool.
+Steps:
+
+
+Scan application components
+
+
+Identify libraries and versions
+
+
+Check known vulnerabilities
+
+
+Suggest updates
+
+
+Block risky deployment
+
+
+
+Outcome
+
+
+Vulnerable library replaced
+
+
+Better software security
+
+
+Safer release process
+
+
+Improved trust
+
+
+
+Benefits of SCA
+
+
+Early vulnerability detection
+
+
+Better compliance
+
+
+Secure software supply chain
+
+
+Supports DevSecOps
+
+
+
+Examples of Tools
+
+
+Snyk
+
+
+OWASP Dependency-Check
+
+
+Black Duck
+
+
+Mend
+
+
+
+Conclusion
+SCA is important for modern security because it detects risky third-party components before attackers can exploit them.
