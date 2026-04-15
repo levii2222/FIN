@@ -1,0 +1,198 @@
+Q1. Demonstrate Blockchain (15 Marks)
+Aim
+
+To demonstrate the working of Blockchain technology and understand how blocks are linked securely.
+
+Introduction
+
+Blockchain is a distributed and decentralized digital ledger used to record transactions securely and transparently.
+Data is stored in blocks, and each block is connected to the previous block using cryptographic hashes.
+Once data is added, it becomes very difficult to change, making blockchain secure and trustworthy.
+
+Step-by-Step Demonstration of Blockchain
+1. Creating a Block
+
+A block contains:
+
+Block number
+Transaction data
+Previous hash
+Nonce
+Current hash
+
+Example:
+A pays ₹100 to B
+
+When data is entered, the system generates a unique hash.
+
+2. Understanding Hash
+
+A hash is a unique digital fingerprint of data.
+
+Even a small change in data creates a completely new hash.
+It helps detect data tampering.
+
+Example:
+Changing ₹100 to ₹1000 changes the hash.
+
+3. Linking Blocks
+
+Each block stores the hash of the previous block.
+
+Example:
+Block 1 → Block 2 → Block 3
+
+This creates a secure chain of blocks.
+
+4. Immutability
+
+If data in Block 1 is changed:
+
+Hash of Block 1 changes
+Block 2 becomes invalid
+Entire chain gets affected
+
+This shows blockchain is immutable.
+
+5. Distributed Ledger
+
+Blockchain data is stored on many computers called nodes.
+
+Every node has the same copy of blockchain
+Any change must be accepted by majority of nodes
+Applications of Blockchain
+Cryptocurrency (Bitcoin, Ethereum)
+Banking and payments
+Supply chain management
+Voting systems
+Smart contracts
+Conclusion
+
+Blockchain provides a secure, transparent, and decentralized way of storing transactions.
+It ensures trust, data integrity, and immutability.
+
+Q2 (a) What is Ethereum Network and How Many Ethereum Networks Are You Familiar With? (15 Marks)
+Introduction
+
+Ethereum is a decentralized blockchain platform that allows developers to build and run smart contracts and decentralized applications (DApps).
+
+Unlike Bitcoin, Ethereum is not only for digital currency but also for programmable applications.
+
+Its currency is called Ether (ETH).
+
+Features of Ethereum
+Decentralized network
+Supports smart contracts
+Used for DApps, NFTs, DeFi
+Secure and transparent
+Open-source platform
+Types of Ethereum Networks
+1. Ethereum Mainnet
+Real Ethereum network
+Uses real ETH
+Used for actual transactions
+
+Example: Sending ETH to another wallet
+
+2. Ethereum Test Networks
+
+Used for learning and testing. No real money is used.
+
+Common Testnets:
+a) Sepolia
+Lightweight network
+Popular for students and developers
+b) Goerli
+Used for testing applications
+Supported by many tools
+c) Ropsten
+Older network (deprecated)
+3. Private Ethereum Network
+
+Used by companies and institutions.
+
+Runs locally
+Used in banks and enterprises
+
+Example: Ganache local blockchain
+
+Conclusion
+
+Ethereum is a powerful blockchain platform used for smart contracts and applications. It has Mainnet, Testnets, and Private Networks.
+
+Q2 (b) Where Do Nodes Run Smart Contract Code?
+Answer
+
+Nodes run smart contract code inside a Virtual Machine.
+
+In Ethereum, smart contracts are executed on the Ethereum Virtual Machine (EVM).
+
+Explanation
+A node is a computer connected to blockchain network.
+When a smart contract is triggered:
+Every node runs the same code
+Results are verified by the network
+Blockchain state is updated
+Why Virtual Machine is Used
+Prevents malicious code
+Same result on all nodes
+Platform independent
+Secure execution environment
+Conclusion
+
+Nodes run smart contract code on EVM to ensure security, trust, and consistency.
+
+Q2 (c) Name Some Leading Open Source Platforms for Developing Blockchain Applications (15 Marks)
+Introduction
+
+Many open-source platforms are available for building blockchain applications.
+
+Leading Platforms
+1. Ethereum
+
+Used for:
+
+Smart contracts
+DApps
+DeFi
+NFTs
+2. Hyperledger Fabric
+
+Enterprise blockchain platform.
+
+Used for:
+
+Supply chain
+Banking systems
+Business networks
+3. Hyperledger Sawtooth
+
+Flexible and scalable platform.
+
+Used for:
+
+Asset tracking
+Enterprise solutions
+4. Corda
+
+Designed for financial institutions.
+
+Used for:
+
+Inter-bank payments
+Financial agreements
+5. EOSIO
+
+High-performance blockchain platform.
+
+Used for:
+
+Fast decentralized apps
+6. Quorum
+
+Enterprise blockchain based on Ethereum.
+
+Used for:
+
+Private banking solutions
+Secure enterprise networks
