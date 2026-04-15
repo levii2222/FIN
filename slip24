@@ -1,0 +1,216 @@
+Q1. Describe About the Software Composition Analysis (SCA) in Security Case Study (15 Marks)
+Introduction
+
+Software Composition Analysis (SCA) is a security process used to identify, analyze, and manage open-source and third-party software components used in an application.
+
+Modern software is built using many libraries, frameworks, and packages. If any component contains vulnerabilities, attackers can exploit it.
+
+SCA helps organizations detect these risks before deployment.
+
+Why SCA is Important
+
+Applications in banking and FinTech handle:
+
+Customer data
+Payments
+Account information
+Financial transactions
+
+Using insecure components can cause:
+
+Data breaches
+Fraud
+Compliance violations
+Loss of trust
+Security Case Study
+Background
+
+A FinTech company develops a wallet app using:
+
+Open-source login library
+Encryption package
+Payment APIs
+
+The development team uses old software components without checking security.
+
+Problem
+
+One third-party library has a known vulnerability.
+
+An attacker exploits it and:
+
+Accesses user accounts
+Steals payment data
+Performs fraud transactions
+Impact
+Financial loss
+Data breach
+Reputation damage
+Compliance failure
+Customer trust loss
+Applying SCA
+
+The company implements an SCA tool in development.
+
+Steps
+1. Scan Components
+
+Detect all third-party libraries.
+
+2. Identify Versions
+
+Check installed versions.
+
+3. Vulnerability Check
+
+Compare with known CVE databases.
+
+4. Risk Report
+
+Show severity and affected components.
+
+5. Suggest Fixes
+
+Recommend updated secure versions.
+
+6. Block Release
+
+Stop deployment until issues are fixed.
+
+Outcome
+Vulnerable library replaced
+Secure app release
+Better compliance
+Reduced attack risk
+Improved customer trust
+Benefits of SCA
+Early vulnerability detection
+Secure software supply chain
+Better code quality
+Supports DevSecOps
+Saves cost and time
+Popular SCA Tools
+Snyk
+OWASP Dependency-Check
+Black Duck
+Mend (WhiteSource)
+Conclusion
+
+SCA is an important modern security practice that protects applications by identifying risky third-party components before attackers can exploit them.
+
+Q2 (a) Introduction of DevSecOps in FinTech (15 Marks)
+Introduction
+
+DevSecOps stands for:
+
+Development
+Security
+Operations
+
+It is a modern approach where security is included in every stage of software development.
+
+Why Important in FinTech
+
+FinTech systems handle:
+
+Payments
+Banking data
+Customer identity
+Sensitive transactions
+
+So strong security is necessary.
+
+Benefits of DevSecOps
+Early bug detection
+Secure releases
+Faster updates
+Better compliance
+Reduced cyber risk
+Example
+
+Before launching a banking app update, automated security tests are performed.
+
+Conclusion
+
+DevSecOps helps FinTech companies deliver software quickly and securely.
+
+Q2 (b) Explain the CI/CD
+Introduction
+
+CI/CD stands for:
+
+Continuous Integration
+Continuous Deployment / Delivery
+
+It is an automated method of building, testing, and releasing software.
+
+Continuous Integration (CI)
+
+When developers add code:
+
+Build starts automatically
+Tests run automatically
+Bugs found early
+Continuous Deployment (CD)
+
+After successful tests:
+
+Software is deployed quickly
+or
+Prepared for release
+Benefits
+Faster development
+Better software quality
+Less manual work
+Quick bug fixing
+Example
+
+A mobile wallet app receives regular updates safely.
+
+Conclusion
+
+CI/CD improves speed, quality, and efficiency of software delivery.
+
+Q2 (c) Explain the SSDLC Introduction
+Introduction
+
+SSDLC stands for Secure Software Development Life Cycle.
+
+It means security is included in every phase of software development.
+
+Stages of SSDLC
+1. Requirement Analysis
+
+Define security needs.
+
+2. Secure Design
+
+Create secure architecture.
+
+3. Secure Coding
+
+Write safe code.
+
+4. Security Testing
+
+Use tools like:
+
+SAST
+DAST
+SCA
+5. Deployment
+
+Release securely.
+
+6. Maintenance
+
+Monitor threats and update systems.
+
+Importance
+Protects customer data
+Prevents attacks
+Supports compliance
+Builds secure apps
+Conclusion
+
+SSDLC ensures software remains secure from planning to maintenance
