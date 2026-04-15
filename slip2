@@ -1,0 +1,252 @@
+Q1. Case Study on Cyber Security Risk Management
+Explain the Control Architecture and Supporting Processes (15 Marks)
+Introduction
+
+In today’s digital world, organizations store sensitive data such as customer details, payment information, and financial records. This creates cyber security risks like hacking, fraud, malware attacks, and data breaches.
+
+Cyber security risk management is the process of identifying, analyzing, controlling, and monitoring risks to protect systems and data.
+
+A strong control architecture with proper supporting processes helps organizations reduce cyber threats and ensure business continuity.
+
+Case Study Background
+
+Consider a FinTech company that provides:
+
+Mobile payments
+Digital wallet services
+Online financial transactions
+
+The company handles:
+
+Customer personal data
+Card and banking details
+High-volume transactions
+
+Because of this, the company faces risks such as:
+
+Phishing attacks
+Data breaches
+Insider misuse
+System downtime
+Fraudulent transactions
+
+To manage these risks, the company uses a cyber security control architecture.
+
+Cyber Security Control Architecture
+
+Control architecture means a structured framework of security controls used to protect systems, networks, and data.
+
+It is divided into the following layers:
+
+1. Preventive Controls
+
+These controls stop attacks before they happen.
+
+Examples:
+Strong passwords
+Multi-Factor Authentication (MFA)
+Firewalls
+Role-Based Access Control (RBAC)
+Secure system configuration
+Purpose:
+
+To reduce vulnerabilities and prevent unauthorized access.
+
+2. Detective Controls
+
+These controls identify attacks when they occur.
+
+Examples:
+Intrusion Detection System (IDS)
+SIEM tools
+Log monitoring
+Fraud detection systems
+Purpose:
+
+To detect suspicious activities quickly.
+
+3. Corrective Controls
+
+These controls are used after an attack is detected.
+
+Examples:
+Incident response plan
+Malware removal tools
+Software patching
+Account recovery systems
+Purpose:
+
+To minimize damage and restore normal operations.
+
+4. Administrative Controls
+
+These controls include policies, procedures, and governance.
+
+Examples:
+Security policies
+Employee training
+Risk management policies
+Compliance with PCI DSS, RBI, GDPR
+Purpose:
+
+To guide employee behavior and ensure legal compliance.
+
+Supporting Processes in Cyber Security Risk Management
+1. Risk Identification
+
+The organization identifies:
+
+Important assets
+Threats
+Vulnerabilities
+
+Example: Payment gateway is a critical asset.
+
+2. Risk Assessment
+
+Each risk is evaluated based on:
+
+Likelihood
+Impact
+
+Formula:
+Risk = Threat × Vulnerability × Impact
+
+Purpose: Prioritize critical risks.
+
+3. Risk Treatment
+
+The company decides to:
+
+Mitigate risk
+Avoid risk
+Transfer risk
+Accept risk
+
+Example: Use MFA to reduce account takeover risk.
+
+4. Incident Response Process
+
+Steps:
+
+Detection
+Analysis
+Containment
+Eradication
+Recovery
+Review
+
+Purpose: Handle incidents effectively.
+
+5. Continuous Monitoring
+
+The company continuously monitors:
+
+Logs
+Threats
+Vulnerabilities
+Security alerts
+
+Purpose: Keep controls effective.
+
+6. Awareness and Training
+
+Employees are trained in:
+
+Phishing awareness
+Password safety
+Secure practices
+
+Purpose: Reduce human error.
+
+Outcome
+
+By implementing these controls, the company achieves:
+
+Reduced cyber attacks
+Faster response time
+Better compliance
+Increased customer trust
+Improved data protection
+Conclusion
+
+Cyber security risk management is essential for protecting digital businesses. A layered control architecture and strong supporting processes help organizations prevent attacks, reduce damage, and maintain trust.
+
+Q2 (a) What is Cryptography? What is its Role in Blockchain? (15 Marks)
+What is Cryptography?
+
+Cryptography is the science of protecting information by converting it into a secure and unreadable form so that only authorized users can access it.
+
+It uses:
+
+Encryption
+Decryption
+Hashing
+
+It ensures:
+
+Confidentiality
+Integrity
+Authentication
+Non-repudiation
+Role of Cryptography in Blockchain
+1. Hashing
+Each block has a unique hash
+Any change in data changes the hash
+2. Digital Signatures
+Verify identity of sender
+Authorize transactions
+3. Linking Blocks
+Each block stores previous block hash
+Creates secure chain
+4. Security and Trust
+Prevents tampering
+Reduces fraud
+Q2 (b) What Do You Mean by Blocks in Blockchain Technology?
+Definition
+
+A block is a data structure that stores a group of transactions in a blockchain network.
+
+Components of a Block
+Transaction data
+Timestamp
+Previous hash
+Current hash
+Nonce
+Role of Blocks
+Store transaction records
+Maintain order
+Ensure immutability
+Link securely with other blocks
+
+Once added, a block cannot be changed.
+
+Q2 (c) What is a Smart Contract and List Some of Its Applications?
+Definition
+
+A smart contract is a self-executing digital program stored on a blockchain that automatically performs actions when predefined conditions are met.
+
+It works without middlemen.
+
+Applications of Smart Contracts
+1. Financial Services
+Automatic payments
+Loan processing
+Insurance settlement
+2. DeFi
+Lending platforms
+Token exchanges
+3. Supply Chain
+Product tracking
+Payment on delivery
+4. Digital Identity
+Identity verification
+Access control
+5. Voting Systems
+Transparent elections
+6. NFTs
+Ownership transfer
+Royalty payments
+Conclusion
+
+Smart contracts make transactions faster, secure, transparent, and cost-effective.
