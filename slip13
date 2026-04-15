@@ -1,0 +1,242 @@
+Q1. Write Down the Case Study on Internet and Mobile Finance: Alibaba, Alipay to Ant Financial (15 Marks)
+Introduction
+
+The growth of internet and mobile technology has changed traditional finance into fast, digital, and user-friendly financial services.
+
+One of the best examples is the journey from Alibaba to Alipay and later Ant Financial (Ant Group).
+
+This case study shows how technology, trust, and innovation created a successful FinTech ecosystem.
+
+Background of Alibaba
+
+Alibaba is a large e-commerce company founded in China by Jack Ma.
+
+It became popular for online shopping and connecting buyers with sellers.
+
+As online shopping increased, customers needed a secure online payment system.
+
+Launch of Alipay
+
+To solve payment trust problems, Alibaba launched Alipay in 2004.
+
+Before Alipay:
+
+Customers feared online fraud
+Sellers feared fake buyers
+No trusted online payment method existed
+How Alipay Worked
+
+Alipay introduced an escrow model.
+
+Escrow Process:
+Buyer sends payment to Alipay
+Alipay holds money safely
+Seller delivers product
+Buyer confirms delivery
+Money released to seller
+Benefits of Alipay
+Increased trust between buyer and seller
+Reduced fraud
+Faster online payments
+Growth of e-commerce
+Growth into Mobile Finance
+
+As smartphones became popular, Alipay expanded into mobile services:
+
+QR code payments
+Wallet services
+Mobile recharge
+Bill payments
+Peer-to-peer transfers
+
+Users could make payments anytime, anywhere.
+
+Formation of Ant Financial
+
+In 2014, Alibaba expanded financial services and formed Ant Financial.
+
+It became a full FinTech company beyond simple payments.
+
+Services of Ant Financial
+1. Digital Payments
+
+Alipay remained the main payment platform.
+
+2. Digital Lending
+
+Small loans for users and businesses.
+
+3. Wealth Management
+
+Investment services like Yu’e Bao.
+
+4. Insurance
+
+Online insurance products.
+
+5. Credit Scoring
+
+Sesame Credit based on digital behavior.
+
+Role of Technology
+
+Ant Financial used advanced technology:
+
+Big Data
+Artificial Intelligence (AI)
+Cloud Computing
+Mobile Apps
+Real-time Analytics
+
+This improved speed and customer experience.
+
+Cybersecurity Measures
+
+To protect users, the company used:
+
+Encryption
+Fraud detection systems
+Multi-factor authentication
+Risk monitoring
+Secure transactions
+Impact on Society
+Financial services for unbanked users
+Support for small businesses
+Growth of digital economy
+Cashless payments culture
+Better financial inclusion
+Challenges
+Data privacy concerns
+Regulatory pressure
+Financial risk management
+Market competition
+Conclusion
+
+The journey from Alibaba to Alipay and Ant Financial is a successful example of internet and mobile finance. It shows how trust, innovation, and technology can transform financial services.
+
+Q2. Introduction of
+(a) DevSecOps in FinTech
+(b) CI/CD Introduction
+(c) SSDLC Introduction (15 Marks)
+Introduction
+
+Modern FinTech applications must be fast, secure, and reliable because they handle payments, banking data, and customer information.
+
+To achieve this, organizations use DevSecOps, CI/CD, and SSDLC.
+
+(a) DevSecOps in FinTech
+Meaning
+
+DevSecOps stands for:
+
+Development
+Security
+Operations
+
+It means security is included in every stage of software development.
+
+Why Important in FinTech?
+
+FinTech systems manage:
+
+Payments
+User accounts
+Personal data
+Transactions
+
+So security is critical.
+
+Benefits
+Early vulnerability detection
+Faster secure releases
+Better compliance
+Reduced cyber risks
+Strong customer trust
+Example
+
+Before releasing a banking app update, security tests run automatically.
+
+Conclusion
+
+DevSecOps helps FinTech companies deliver software quickly and securely.
+
+(b) CI/CD Introduction
+Meaning
+
+CI/CD stands for:
+
+Continuous Integration
+Continuous Deployment / Delivery
+
+It is an automated process for building, testing, and releasing software.
+
+Continuous Integration (CI)
+
+When developers add code:
+
+Build starts automatically
+Tests run automatically
+Errors are found early
+Continuous Deployment (CD)
+
+After successful testing:
+
+Software is released quickly
+or
+Automatically deployed
+Benefits
+Faster updates
+Better quality
+Less manual work
+Quick bug fixing
+Example
+
+A wallet app gets regular updates without downtime.
+
+Conclusion
+
+CI/CD helps teams release software faster and more safely.
+
+(c) SSDLC Introduction
+Meaning
+
+SSDLC stands for Secure Software Development Life Cycle.
+
+It means security is added in every phase of software development.
+
+Stages of SSDLC
+1. Requirement Analysis
+
+Define security needs.
+
+2. Secure Design
+
+Plan secure architecture.
+
+3. Secure Coding
+
+Write safe code.
+
+4. Security Testing
+
+Use tools like:
+
+SAST
+DAST
+SCA
+5. Deployment
+
+Release securely.
+
+6. Maintenance
+
+Monitor and update systems.
+
+Importance in FinTech
+Protects customer data
+Prevents fraud
+Supports compliance
+Builds secure apps
+Conclusion
+
+SSDLC ensures software remains secure from planning to maintenance.
