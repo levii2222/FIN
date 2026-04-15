@@ -1,0 +1,225 @@
+Q1. Introduction to Compliance within FinTech (15 Marks)
+Introduction
+
+Compliance in FinTech means following laws, regulations, security standards, and industry rules while providing digital financial services such as payments, wallets, banking apps, cards, and online transactions.
+
+It ensures that organizations operate legally, securely, and ethically.
+
+Compliance is important because FinTech companies deal with:
+
+Customer money
+Personal data
+Payment systems
+Sensitive financial records
+
+Without compliance, organizations may face fraud, cyber attacks, penalties, and loss of trust.
+
+Objectives of Compliance in FinTech
+Protect customer data
+Prevent fraud and cybercrime
+Follow legal requirements
+Maintain trust in digital finance
+Ensure safe transactions
+Reduce business risk
+Common Compliance Areas in FinTech
+Data privacy
+Cyber security
+Anti-money laundering (AML)
+Know Your Customer (KYC)
+Payment security
+Consumer protection
+Regulatory reporting
+Importance of Compliance
+1. Legal Protection
+
+Helps avoid fines and penalties.
+
+2. Customer Trust
+
+Users feel safe using services.
+
+3. Security
+
+Protects systems from threats.
+
+4. Smooth Business Operations
+
+Creates standard processes.
+
+5. Market Growth
+
+Encourages innovation responsibly.
+
+Conclusion
+
+Compliance is the foundation of safe and trusted FinTech systems. It helps companies grow while protecting customers and following the law.
+
+Q1 (a) Describe Payment Card Industry Data Security Standard (PCI DSS)
+Introduction
+
+PCI DSS stands for Payment Card Industry Data Security Standard.
+
+It is a global security standard designed to protect credit card and debit card data during transactions.
+
+It is managed by the Payment Card Industry Security Standards Council (PCI SSC).
+
+Purpose of PCI DSS
+Protect cardholder data
+Prevent payment fraud
+Secure card transactions
+Build trust in online payments
+Who Must Follow PCI DSS?
+
+Any organization that:
+
+Accepts card payments
+Processes transactions
+Stores card data
+
+Examples:
+
+Banks
+Payment gateways
+Online shopping websites
+FinTech companies
+Retail stores
+Main Requirements of PCI DSS
+1. Build Secure Network
+
+Use firewalls and secure systems.
+
+2. Protect Card Data
+
+Encrypt stored and transmitted data.
+
+3. Manage Vulnerabilities
+
+Use antivirus and updates.
+
+4. Strong Access Control
+
+Only authorized users can access data.
+
+5. Monitor Networks
+
+Track logs and perform testing.
+
+6. Security Policy
+
+Train employees and define rules.
+
+Benefits
+Reduces data breaches
+Protects customer data
+Avoids penalties
+Improves reputation
+Conclusion
+
+PCI DSS is essential for secure card payments and protecting sensitive financial information.
+
+Q1 (b) Describe RBI PSS (Reserve Bank of India – Payment and Settlement Systems)
+Introduction
+
+RBI PSS refers to the Payment and Settlement Systems Act, 2007 regulated by the Reserve Bank of India.
+
+It provides the legal framework for digital payment systems in India.
+
+Objectives
+Regulate payment systems
+Ensure secure transactions
+Protect customers
+Promote digital payments
+Maintain financial stability
+Systems Covered
+UPI
+NEFT
+RTGS
+IMPS
+Wallets
+Card systems
+Payment gateways
+Role of RBI Under PSS
+1. Authorization
+
+Approves payment system operators.
+
+2. Regulation
+
+Issues rules and standards.
+
+3. Monitoring
+
+Checks security and compliance.
+
+4. Consumer Protection
+
+Handles complaints and fraud guidelines.
+
+5. Settlement Management
+
+Ensures smooth fund transfer between banks.
+
+Importance
+Builds trust in digital payments
+Prevents fraud
+Supports innovation
+Creates secure ecosystem
+Conclusion
+
+RBI PSS is the backbone of India’s digital payment regulation system.
+
+Q2. Introduction to Software Composition Analysis (SCA) – Security Case Study (15 Marks)
+Introduction
+
+Software Composition Analysis (SCA) is a security process used to identify, analyze, and manage open-source and third-party software components used in an application.
+
+Modern applications depend on many libraries. If these components contain vulnerabilities, attackers can exploit them.
+
+Security Case Study
+Background
+
+A FinTech company develops a wallet app using:
+
+Open-source login library
+Encryption package
+Payment APIs
+
+The development team uses old components without security checks.
+
+Problem
+
+One library contains a known vulnerability.
+
+An attacker exploits it and:
+
+Steals customer data
+Accesses transaction details
+Causes fraud
+Impact
+Financial loss
+Data breach
+Reputation damage
+Compliance failure
+Applying SCA
+
+The company uses an SCA tool.
+
+Steps
+Scan components
+Identify versions
+Check vulnerabilities
+Suggest updates
+Block risky release
+Benefits
+Early risk detection
+Secure software supply chain
+Better compliance
+Supports DevSecOps
+Tools
+Snyk
+OWASP Dependency-Check
+Black Duck
+Mend
+Conclusion
+
+SCA is important because it secures applications by detecting risky third-party components before deployment.
