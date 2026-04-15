@@ -1,0 +1,229 @@
+Q1. Introduction to Electronic Identification and Trust Services (eIDAS) – Security Case Study (15 Marks)
+Introduction
+
+eIDAS stands for Electronic Identification, Authentication and Trust Services. It is a regulation of the European Union (EU) that provides a secure and legally accepted framework for digital identity and electronic transactions.
+
+It helps people and businesses to:
+
+Identify themselves online
+Sign documents electronically
+Exchange data securely
+Perform online banking and legal transactions safely
+
+eIDAS builds trust in digital services across EU countries.
+
+Key Components of eIDAS
+
+eIDAS has two main areas:
+
+1. Electronic Identification (eID)
+
+Used to verify a person’s digital identity.
+
+2. Trust Services
+
+These services make electronic transactions secure and legally valid.
+
+Examples:
+
+Electronic Signatures
+Electronic Seals
+Time Stamps
+Electronic Registered Delivery
+Website Authentication Certificates
+Security Case Study: Cross-Border Digital Banking
+Background
+
+A digital bank in Germany allows customers from France, Spain, and Italy to open bank accounts online.
+
+Before eIDAS:
+
+Customers had to visit branches physically
+Identity verification was slow
+Fraud risk was high
+Too much paperwork was required
+
+The bank decides to implement eIDAS.
+
+Security Problems Before eIDAS
+1. Identity Fraud
+
+Fake documents were used to open accounts.
+
+2. Document Tampering
+
+Signed documents could be changed.
+
+3. Weak Authentication
+
+Simple passwords increased hacking risk.
+
+4. Legal Issues
+
+Electronic signatures were not accepted everywhere.
+
+How eIDAS Solved the Problems
+Step 1: Secure Digital Identity
+
+Customers use national digital IDs.
+
+Benefit:
+Strong identity verification
+Reduced fake accounts
+Step 2: Electronic Signatures
+
+Customers sign documents digitally.
+
+Benefit:
+Legally valid
+Cannot be forged
+Non-repudiation
+Step 3: Electronic Seals
+
+The bank applies seals to official documents.
+
+Benefit:
+Confirms authenticity
+Prevents tampering
+Step 4: Time Stamping
+
+Every transaction gets time proof.
+
+Benefit:
+Prevents backdating fraud
+Useful in legal disputes
+Step 5: Strong Authentication
+
+The bank uses:
+
+Two-factor authentication
+Biometrics
+Secure cryptography
+Benefit:
+Prevents account takeover
+Reduces fraud
+Outcome After eIDAS
+Faster online account opening
+Reduced fraud
+Better cybersecurity
+Legal acceptance across EU
+Increased customer trust
+Lower operational cost
+Conclusion
+
+eIDAS provides a secure framework for digital identity and trust services. It improves security, reduces fraud, and enables trusted cross-border digital banking.
+
+Q2 (a) What are the Requirements for a PSD2 Payment? (15 Marks)
+Introduction
+
+PSD2 stands for Payment Services Directive 2. It is an EU regulation that makes digital payments safer, more transparent, and competitive.
+
+For a payment to be valid under PSD2, the following requirements must be met.
+
+Requirements of PSD2 Payment
+1. Strong Customer Authentication (SCA)
+
+Payment must use at least two of these factors:
+
+Something you know → Password / PIN
+Something you have → OTP / Mobile / Token
+Something you are → Fingerprint / Face ID
+2. Secure Communication
+
+Payment data must be encrypted between:
+
+Customer
+Bank
+Payment provider
+3. Customer Consent
+
+The user must approve the payment before processing.
+
+Example: Confirm payment with OTP.
+
+4. Secure APIs
+
+Third-party apps must use approved APIs to access bank data.
+
+5. Authentication by Provider
+
+The bank checks:
+
+User identity
+Valid transaction
+Sufficient balance
+6. Transaction Integrity
+
+The system ensures amount, receiver, and date are not changed.
+
+7. Fraud Monitoring
+
+Banks must detect suspicious transactions and block risky payments.
+
+Conclusion
+
+PSD2 payments require strong authentication, secure communication, consent, and fraud monitoring.
+
+Q2 (b) How Does PSD2 Affect Banks?
+Main Effects on Banks
+1. Open Banking
+
+Banks must share customer data with approved third-party providers using APIs.
+
+This increases competition.
+
+2. Stronger Security
+
+Banks must implement:
+
+SCA
+OTP
+Biometrics
+
+This reduces fraud.
+
+3. Increased Competition
+
+Customers can use FinTech apps instead of only bank apps.
+
+4. Better Customer Services
+
+Banks improve apps and digital services.
+
+5. Compliance Cost
+
+Banks need to invest in security systems and API infrastructure.
+
+Conclusion
+
+PSD2 changes banking by increasing security, innovation, and competition.
+
+Q2 (c) What is the Purpose of PSD2?
+Main Purposes of PSD2
+1. Improve Payment Security
+
+Uses Strong Customer Authentication to reduce fraud.
+
+2. Promote Open Banking
+
+Allows secure data sharing with approved FinTech apps.
+
+3. Increase Competition
+
+Reduces monopoly of traditional banks.
+
+4. Consumer Protection
+
+Improves refund rules and dispute handling.
+
+5. Support Cashless Payments
+
+Encourages online and mobile payments.
+
+6. Standardize EU Payments
+
+Creates common rules across EU countries.
+
+Conclusion
+
+The purpose of PSD2 is to create a secure, innovative, customer-friendly, and competitive digital payment system in Europe.
