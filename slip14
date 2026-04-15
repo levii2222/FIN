@@ -1,0 +1,237 @@
+1. Describe the Case Study on Cyber Security Risk Management. Explain the Control Architecture and Supporting Processes (15 Marks)
+Introduction
+
+In the digital era, organizations store sensitive information such as customer records, banking details, and payment data. This creates cyber risks like hacking, malware, phishing, fraud, and data breaches.
+
+Cyber Security Risk Management is the process of identifying, assessing, controlling, and monitoring these risks.
+
+A strong control architecture and supporting processes help organizations protect systems and maintain trust.
+
+Case Study: FinTech Payment Company
+Background
+
+A FinTech company provides:
+
+Mobile wallet services
+Online payments
+Fund transfer
+QR transactions
+
+The company handles:
+
+Customer personal data
+Bank account details
+Payment records
+
+This makes it a target for cyber attacks.
+
+Cyber Risks Faced
+Phishing attacks
+Malware infection
+Unauthorized access
+Insider threats
+Data leakage
+Payment fraud
+Service downtime
+Control Architecture
+
+Control architecture means a layered system of security controls used to protect the organization.
+
+1. Preventive Controls
+
+These controls stop attacks before they happen.
+
+Examples:
+Firewalls
+Strong passwords
+Multi-Factor Authentication (MFA)
+Encryption
+Access control
+Purpose:
+
+Prevent unauthorized access.
+
+2. Detective Controls
+
+These controls detect attacks quickly.
+
+Examples:
+Intrusion Detection System (IDS)
+Security logs
+SIEM tools
+Fraud monitoring systems
+Purpose:
+
+Identify suspicious activities.
+
+3. Corrective Controls
+
+Used after an attack occurs.
+
+Examples:
+Incident response
+Malware removal
+Backup restore
+Patching systems
+Purpose:
+
+Reduce damage and recover operations.
+
+4. Administrative Controls
+
+Policies and management controls.
+
+Examples:
+Security policies
+Employee training
+Risk management framework
+Compliance rules
+Purpose:
+
+Guide people and processes.
+
+Supporting Processes
+1. Risk Identification
+
+Find important assets, threats, and weaknesses.
+
+Example: Payment gateway is a critical asset.
+
+2. Risk Assessment
+
+Measure risk using:
+
+Likelihood
+Impact
+
+This helps prioritize serious risks.
+
+3. Risk Treatment
+
+Choose one action:
+
+Reduce risk
+Avoid risk
+Transfer risk
+Accept risk
+4. Incident Response Process
+
+Steps:
+
+Detect incident
+Analyze
+Contain
+Remove threat
+Recover system
+Review lessons learned
+5. Continuous Monitoring
+
+Monitor:
+
+Logs
+Threat alerts
+Vulnerabilities
+System health
+6. Security Awareness Training
+
+Train staff about:
+
+Phishing emails
+Password safety
+Secure behavior
+Outcome
+
+After implementing controls:
+
+Reduced fraud
+Better security
+Faster response
+Improved trust
+Compliance achieved
+Conclusion
+
+Cyber Security Risk Management is essential for FinTech companies. A proper control architecture with strong supporting processes protects data, systems, and customers.
+
+Q2 (a) Which is More Secure: Mobile Banking or Internet Banking? (15 Marks)
+Answer
+
+Both can be secure if used properly, but Mobile Banking is often considered more secure because of app-level protections.
+
+Why Mobile Banking is More Secure
+Official bank apps
+Fingerprint / Face ID
+App sandbox security
+Device binding
+Push alerts
+Risks in Internet Banking
+Phishing websites
+Browser malware
+Public computer usage
+Fake login pages
+Conclusion
+
+Mobile banking is generally more secure, but both are safe with strong passwords, OTP, and careful use.
+
+Q2 (b) How Mobile Banking Works Without Internet?
+Answer
+
+Mobile banking can work without internet using telecom-based services.
+
+Methods
+1. USSD Banking
+
+Dial codes like *99# to access banking menu.
+
+Used for:
+
+Balance check
+Fund transfer
+Mini statement
+2. SMS Banking
+
+Users send SMS commands for banking services.
+
+3. Missed Call Banking
+
+Users give missed call to get account information.
+
+Conclusion
+
+Without internet, mobile banking works through USSD, SMS, and missed call services.
+
+Q2 (c) Which Technology is Used in UPI?
+Introduction
+
+UPI (Unified Payments Interface) is a real-time payment system developed by NPCI.
+
+Technologies Used in UPI
+1. IMPS Infrastructure
+
+Used for instant bank-to-bank transfer.
+
+2. APIs
+
+Apps connect banks securely through APIs.
+
+3. Mobile Application Technology
+
+Used in apps like Google Pay, PhonePe, Paytm.
+
+4. Encryption
+
+Protects transaction data.
+
+5. Authentication
+
+Uses:
+
+UPI PIN
+OTP
+Device verification
+6. Cloud and Server Systems
+
+Used for high-speed processing.
+
+Conclusion
+
+UPI uses IMPS, APIs, encryption, authentication, and mobile technology for fast and secure payments.
