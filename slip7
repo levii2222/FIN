@@ -1,0 +1,181 @@
+Q1. Introduction to Software Composition Analysis (SCA) – Security Case Study (15 Marks)
+Introduction
+
+Software Composition Analysis (SCA) is a security technique used to identify, analyze, and manage open-source and third-party software components used in an application.
+
+Modern applications use many ready-made libraries and frameworks. If any of these components contain vulnerabilities, attackers can exploit them.
+
+SCA helps organizations detect such risks early.
+
+Why SCA is Important in FinTech
+
+FinTech applications handle:
+
+Payments
+Banking transactions
+Personal data
+Sensitive financial records
+
+Using insecure third-party components can cause:
+
+Data breaches
+Financial fraud
+Compliance violations
+Loss of customer trust
+Security Case Study: FinTech Payment Application
+Background
+
+A FinTech company develops a mobile wallet app using:
+
+Open-source authentication libraries
+Encryption frameworks
+Payment APIs
+
+To save time, developers use third-party libraries without proper security checks.
+
+Security Problem
+
+One logging library used in the app is:
+
+Outdated
+Has a known vulnerability (CVE)
+
+An attacker exploits this weakness and:
+
+Accesses transaction logs
+Steals customer payment data
+Performs unauthorized transactions
+Impact of Attack
+Financial loss to customers
+Reputation damage
+Legal action from regulators
+PCI DSS violations
+Customer trust loss
+Role of SCA in Solving the Problem
+
+The company implements SCA in its development process.
+
+Steps Followed
+SCA tool scans the application
+Identifies all third-party components
+Checks known vulnerabilities
+Flags risky libraries
+Suggests secure versions
+Stops deployment until fixed
+Outcome After SCA
+Vulnerable library replaced
+Application secured before release
+Compliance achieved
+No further breaches
+Better trust and security
+Benefits of SCA
+Early vulnerability detection
+Prevents supply-chain attacks
+Improves software security
+Supports DevSecOps
+Helps regulatory compliance
+Examples of SCA Tools
+OWASP Dependency-Check
+Snyk
+Black Duck
+Mend (WhiteSource)
+Conclusion
+
+SCA is an essential security practice for modern software development. It protects applications by identifying risky third-party components before deployment.
+
+Q2 (a) What is a Challenge When Applying a Shift Left Approach? (15 Marks)
+Introduction
+
+Shift Left means moving testing and security to the early stages of software development instead of checking only at the end.
+
+Main Challenge
+
+A major challenge is lack of security knowledge in development teams.
+
+Developers may be good at coding but may not have enough cybersecurity skills.
+
+Other Challenges
+Increased workload in early stages
+Tool integration difficulties
+False positives from security tools
+Resistance to process changes
+Coordination issues between teams
+Conclusion
+
+The biggest challenge in Shift Left is combining fast development with early security practices.
+
+Q2 (b) Why Do DevOps Recommend Shift Left Testing Principles?
+Reasons
+1. Early Bug Detection
+
+Problems are found during coding.
+
+2. Lower Cost
+
+Fixing issues early is cheaper.
+
+3. Faster Releases
+
+Less rework means quicker delivery.
+
+4. Better Quality
+
+Continuous testing improves reliability.
+
+5. Improved Security
+
+Vulnerabilities are found before release.
+
+6. Supports CI/CD
+
+Works well with automation pipelines.
+
+7. Less Production Failure
+
+Reduces crashes and downtime.
+
+Example
+
+If a payment app checks security during coding, it avoids failures after launch.
+
+Conclusion
+
+DevOps recommends Shift Left because early testing saves time, cost, and improves software quality.
+
+Q2 (c) What is the Main Focus of Automating Security Checks When Shifting Left?
+Introduction
+
+The main focus is to detect and fix security issues early and continuously without slowing development.
+
+Key Focus Areas
+1. Early Detection of Vulnerabilities
+
+Find flaws while code is being written.
+
+2. Continuous Security Testing
+
+Run checks every time code changes.
+
+3. Reducing Manual Effort
+
+Automation saves time.
+
+4. Fast Feedback
+
+Developers get instant alerts.
+
+5. Consistent Security Rules
+
+Same checks every time.
+
+6. Prevent Insecure Code
+
+Stops risky code before deployment.
+
+Example
+
+If a developer uploads insecure code, the system automatically blocks the build.
+
+Conclusion
+
+Automating security checks in Shift Left improves speed, security, and software quality.
