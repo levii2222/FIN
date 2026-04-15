@@ -1,0 +1,298 @@
+Q1. Write Down the Compliance within FinTech
+RBI PSS (Reserve Bank of India – Payment and Settlement Systems) (15 Marks)
+Introduction
+Compliance in FinTech means following laws, rules, regulations, and security standards while providing digital financial services such as payments, wallets, cards, and UPI.
+It ensures that customer money, data, and systems are safe and legally protected.
+One of the most important compliance frameworks in India is RBI PSS.
+
+What is RBI PSS?
+RBI PSS refers to the Payment and Settlement Systems Act, 2007, regulated by the Reserve Bank of India (RBI).
+It provides the legal and regulatory framework for all electronic and digital payment systems in India.
+
+Objectives of RBI PSS
+The main objectives are:
+
+
+Regulate payment systems in India
+
+
+Ensure secure and smooth transactions
+
+
+Protect customer interests
+
+
+Prevent fraud and misuse
+
+
+Maintain trust in digital payments
+
+
+Support financial stability
+
+
+
+Systems Covered Under RBI PSS
+The following systems operate under RBI regulation:
+
+
+UPI
+
+
+IMPS
+
+
+NEFT
+
+
+RTGS
+
+
+Digital Wallets
+
+
+Payment Gateways
+
+
+Card Payment Systems
+
+
+
+Key Functions of RBI PSS
+1. Authorization of Payment Systems
+Any payment service provider must get RBI approval before operating.
+2. Monitoring and Supervision
+RBI regularly checks systems for compliance and security.
+3. Security and Risk Management
+Payment providers must follow cybersecurity standards.
+4. Consumer Protection
+RBI issues rules for grievance handling and fraud prevention.
+5. Settlement of Payments
+Ensures transfer of money between banks is completed correctly.
+
+Importance of RBI PSS in FinTech
+
+
+Builds trust in digital payments
+
+
+Protects customers
+
+
+Reduces fraud
+
+
+Promotes innovation safely
+
+
+Ensures legal compliance
+
+
+
+Example
+Apps like:
+
+
+Google Pay
+
+
+PhonePe
+
+
+Paytm
+
+
+operate under RBI rules for secure digital transactions.
+
+Conclusion
+RBI PSS is the backbone of India’s digital payment system. It ensures payments are safe, secure, reliable, and properly regulated.
+
+Q2. Introduction of:
+(a) DevSecOps in FinTech
+(b) CI/CD Introduction
+(c) SSDLC Introduction (15 Marks)
+Introduction
+Modern FinTech applications handle money, customer data, and real-time transactions. Therefore, they must be fast, secure, and reliable.
+To achieve this, organizations use DevSecOps, CI/CD, and SSDLC.
+
+(a) DevSecOps in FinTech
+Meaning
+DevSecOps stands for:
+
+
+Development
+
+
+Security
+
+
+Operations
+
+
+It is an approach where security is included in every stage of software development.
+
+Simple Meaning
+Security is built from the beginning, not added at the end.
+
+Why Important in FinTech?
+FinTech applications handle:
+
+
+Payments
+
+
+Banking data
+
+
+Personal information
+
+
+Financial transactions
+
+
+So security is very important.
+
+Benefits of DevSecOps
+
+
+Detects issues early
+
+
+Reduces cyber risks
+
+
+Prevents data breaches
+
+
+Ensures compliance
+
+
+Delivers secure apps faster
+
+
+
+Example
+Before launching a payment app update, automatic security scans are performed.
+
+Conclusion
+DevSecOps helps FinTech companies build secure and reliable applications.
+
+(b) CI/CD Introduction
+Meaning
+CI/CD stands for:
+
+
+Continuous Integration
+
+
+Continuous Deployment / Delivery
+
+
+It is a modern method of building, testing, and releasing software automatically.
+
+Continuous Integration (CI)
+Developers regularly add code to a shared repository.
+Each time code is added:
+
+
+Build starts automatically
+
+
+Tests run automatically
+
+
+Errors are found early
+
+
+
+Continuous Deployment / Delivery (CD)
+After successful testing:
+
+
+Application is deployed automatically
+or
+
+
+Prepared for release quickly
+
+
+
+Benefits of CI/CD
+
+
+Faster updates
+
+
+Fewer manual errors
+
+
+Better software quality
+
+
+Quick bug fixes
+
+
+Stable systems
+
+
+
+Example
+A UPI app releases updates regularly without downtime.
+
+Conclusion
+CI/CD helps teams deliver software quickly, safely, and efficiently.
+
+(c) SSDLC Introduction
+Meaning
+SSDLC stands for Secure Software Development Life Cycle.
+It is a process where security is included in every phase of software development.
+
+Stages of SSDLC
+1. Requirement Analysis
+Identify security needs.
+2. Secure Design
+Create secure system architecture.
+3. Secure Coding
+Use safe coding practices.
+4. Security Testing
+Use tools like:
+
+
+SAST
+
+
+DAST
+
+
+SCA
+
+
+5. Secure Deployment
+Release software safely.
+6. Monitoring and Maintenance
+Track threats and update systems.
+
+Importance of SSDLC in FinTech
+
+
+Protects customer data
+
+
+Prevents cyber attacks
+
+
+Reduces fraud
+
+
+Supports compliance
+
+
+Builds secure applications
+
+
+
+Example
+A mobile banking app is checked for security at every stage before release.
+
+Conclusion
+SSDLC ensures software is secure by design and safe throughout its lifecycle.
