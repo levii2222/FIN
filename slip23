@@ -1,0 +1,234 @@
+Q1. Introduction to Compliance within FinTech (15 Marks)
+Introduction
+
+Compliance in FinTech means following laws, regulations, security standards, and industry rules while providing digital financial services such as online banking, wallets, UPI, card payments, and money transfer systems.
+
+It ensures that financial services are safe, legal, transparent, and trustworthy.
+
+FinTech companies handle customer money and sensitive data, so compliance is very important.
+
+Why Compliance is Important in FinTech
+Protects customer data
+Prevents fraud and cyber attacks
+Ensures legal operations
+Builds customer trust
+Reduces business risks
+Supports secure innovation
+Major Areas of Compliance
+Payment security
+Data privacy
+Cyber security
+KYC (Know Your Customer)
+AML (Anti-Money Laundering)
+Consumer protection
+Regulatory reporting
+Conclusion
+
+Compliance is the foundation of a safe and successful FinTech ecosystem.
+
+Q1 (a) Payment Card Industry Data Security Standard (PCI DSS)
+Introduction
+
+PCI DSS stands for Payment Card Industry Data Security Standard.
+
+It is a global security standard created to protect credit card and debit card data during payment transactions.
+
+Purpose of PCI DSS
+Protect cardholder data
+Prevent payment fraud
+Secure digital transactions
+Build trust in card payments
+Who Must Follow PCI DSS?
+
+Organizations that:
+
+Accept card payments
+Process transactions
+Store card data
+
+Examples:
+
+Banks
+Online stores
+Payment gateways
+FinTech companies
+Main Requirements of PCI DSS
+1. Secure Network
+
+Use firewalls and safe configurations.
+
+2. Protect Card Data
+
+Use encryption and secure storage.
+
+3. Vulnerability Management
+
+Use antivirus and regular updates.
+
+4. Access Control
+
+Allow access only to authorized users.
+
+5. Monitoring
+
+Track logs and perform testing.
+
+6. Security Policy
+
+Train employees and define rules.
+
+Benefits
+Reduces data breaches
+Protects customers
+Avoids penalties
+Improves reputation
+Conclusion
+
+PCI DSS is essential for secure card payment systems.
+
+Q1 (b) RBI PSS (Reserve Bank of India – Payment and Settlement Systems)
+Introduction
+
+RBI PSS refers to the Payment and Settlement Systems Act, 2007, regulated by the Reserve Bank of India.
+
+It provides the legal framework for digital payment systems in India.
+
+Objectives
+Regulate payment systems
+Ensure secure transactions
+Protect customers
+Promote digital payments
+Maintain financial stability
+Systems Covered
+UPI
+NEFT
+RTGS
+IMPS
+Wallets
+Card systems
+Payment gateways
+Role of RBI
+1. Authorization
+
+Approves payment providers.
+
+2. Regulation
+
+Creates rules and standards.
+
+3. Monitoring
+
+Checks compliance and security.
+
+4. Consumer Protection
+
+Issues fraud and complaint guidelines.
+
+5. Settlement
+
+Ensures successful transfer between banks.
+
+Importance
+Builds trust
+Prevents fraud
+Supports innovation
+Creates secure ecosystem
+Conclusion
+
+RBI PSS is the backbone of India’s digital payment regulation system.
+
+Q2 (a) How Does Blockchain Work? (15 Marks)
+Introduction
+
+Blockchain is a decentralized digital ledger that stores transactions securely in linked blocks.
+
+Working of Blockchain
+1. Transaction Creation
+
+A user starts a transaction.
+
+2. Broadcast to Network
+
+The transaction is sent to network nodes.
+
+3. Verification
+
+Nodes verify the transaction.
+
+4. Block Creation
+
+Verified transactions are grouped into a block.
+
+5. Add to Chain
+
+The block is added to previous blocks.
+
+6. Permanent Record
+
+The data becomes difficult to change.
+
+Conclusion
+
+Blockchain works through transaction verification, block creation, and secure chaining.
+
+Q2 (b) What are the Key Components of a Blockchain?
+Main Components
+1. Block
+
+Stores transaction data.
+
+2. Hash
+
+Unique digital fingerprint of block.
+
+3. Previous Hash
+
+Links current block to previous block.
+
+4. Nodes
+
+Computers that maintain the network.
+
+5. Consensus Mechanism
+
+Method to validate transactions.
+
+6. Ledger
+
+Shared record of all transactions.
+
+Conclusion
+
+These components make blockchain secure and decentralized.
+
+Q2 (c) What is the Role of Cryptography in Blockchain?
+Introduction
+
+Cryptography protects data using mathematical techniques.
+
+It is the core security system of blockchain.
+
+Roles of Cryptography
+1. Hashing
+
+Creates unique block identity.
+
+2. Digital Signatures
+
+Verifies sender identity.
+
+3. Data Integrity
+
+Detects tampering.
+
+4. Confidentiality
+
+Protects sensitive data.
+
+5. Trust
+
+Allows secure transactions without middlemen.
+
+Conclusion
+
+Cryptography provides security, authenticity, and trust in blockchain systems.
