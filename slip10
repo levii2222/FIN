@@ -1,0 +1,298 @@
+1. Introduction to Shift Left Principle in FinTech – Security Case Study (15 Marks)
+Introduction
+The Shift Left Principle means moving testing, security, and quality checks to the early stages of software development instead of doing them only at the end.
+In traditional development, security was checked after coding was completed. This often caused delays, higher costs, and security failures.
+In FinTech, where applications manage money, customer data, and payments, early security is very important.
+
+Meaning of Shift Left
+“Shift Left” means shifting security and testing to the left side of the software development lifecycle, which represents the beginning stages such as planning, design, and coding.
+Instead of fixing problems after release, issues are prevented early.
+
+Why Shift Left is Important in FinTech
+FinTech applications deal with:
+
+
+Online payments
+
+
+Banking systems
+
+
+Wallets
+
+
+Customer identity data
+
+
+Real-time transactions
+
+
+Any security issue can cause:
+
+
+Financial loss
+
+
+Fraud
+
+
+Data breach
+
+
+Regulatory penalties
+
+
+Loss of trust
+
+
+So security must begin early.
+
+Security Case Study: Digital Payment App
+Background
+A FinTech company develops a mobile payment application.
+The app includes:
+
+
+User login
+
+
+Wallet transfer
+
+
+QR payments
+
+
+Card linking
+
+
+The company follows traditional testing and checks security only before release.
+
+Problems in Traditional Approach
+During final testing, the team discovers:
+1. Weak Password Policy
+Users can create simple passwords.
+2. Insecure API Calls
+Payment APIs expose data.
+3. Missing Input Validation
+Attackers can inject malicious data.
+4. Poor Session Management
+Users remain logged in too long.
+
+Impact
+
+
+Release delayed
+
+
+Extra cost for fixes
+
+
+Security risk increased
+
+
+Customer trust affected
+
+
+
+Applying Shift Left Principle
+The company changes to Shift Left model.
+
+Step 1: Secure Requirement Phase
+Security requirements are added:
+
+
+Strong password rules
+
+
+OTP login
+
+
+Encryption
+
+
+Fraud detection needs
+
+
+
+Step 2: Secure Design Phase
+Architects design:
+
+
+Secure APIs
+
+
+Access controls
+
+
+Logging systems
+
+
+
+Step 3: Secure Coding Phase
+Developers use:
+
+
+Secure coding practices
+
+
+Code reviews
+
+
+Input validation
+
+
+
+Step 4: Automated Security Testing
+Tools are added in CI/CD pipeline:
+
+
+SAST
+
+
+DAST
+
+
+SCA
+
+
+Every code update is checked automatically.
+
+Step 5: Continuous Monitoring
+After deployment:
+
+
+Logs monitored
+
+
+Fraud alerts checked
+
+
+Security patches applied
+
+
+
+Outcome After Shift Left
+
+
+Vulnerabilities found early
+
+
+Lower fixing cost
+
+
+Faster release cycles
+
+
+Better compliance
+
+
+Stronger security
+
+
+Improved customer trust
+
+
+
+Benefits of Shift Left in FinTech
+
+
+Early bug detection
+
+
+Reduced cyber risks
+
+
+Faster software delivery
+
+
+Better software quality
+
+
+Lower development cost
+
+
+Supports DevSecOps
+
+
+
+Conclusion
+The Shift Left Principle is essential in FinTech because it brings security to the beginning of development. It saves cost, improves quality, and protects users from cyber threats.
+
+Q2 (a) What are the Requirements for a PSD2 Payment? (15 Marks)
+Introduction
+PSD2 (Payment Services Directive 2) is a European regulation that makes digital payments secure and transparent.
+
+Requirements
+1. Strong Customer Authentication (SCA)
+At least two factors:
+
+
+Password / PIN
+
+
+OTP / Mobile
+
+
+Fingerprint / Face ID
+
+
+
+2. Customer Consent
+The user must approve the payment.
+
+3. Secure Communication
+Payment data must be encrypted.
+
+4. Secure APIs
+Third-party apps must use approved APIs.
+
+5. Fraud Monitoring
+Banks must monitor suspicious payments.
+
+6. Transaction Integrity
+Amount and receiver details must not change.
+
+Conclusion
+PSD2 payments require strong authentication, secure communication, consent, and fraud prevention.
+
+Q2 (b) How Does PSD2 Affect Banks?
+Effects on Banks
+1. Open Banking
+Banks share data with approved FinTech apps.
+2. Stronger Security
+Banks implement SCA, OTP, biometrics.
+3. More Competition
+Customers can use third-party services.
+4. Better Services
+Banks improve apps and digital experience.
+5. Higher Compliance Cost
+Banks invest in APIs and security systems.
+
+Conclusion
+PSD2 changes banks by increasing innovation, competition, and security.
+
+Q2 (c) What is the Purpose of PSD2?
+Main Purpose
+
+
+Improve payment security
+
+
+Promote open banking
+
+
+Increase competition
+
+
+Protect customers
+
+
+Encourage digital payments
+
+
+Standardize rules across Europe
+
+
+
+Conclusion
+PSD2 creates a secure, customer-friendly, and innovative payment ecosystem.
