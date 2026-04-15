@@ -1,0 +1,213 @@
+Q1 (a) What is Payment Card Industry Data Security Standard (PCI DSS)? (15 Marks)
+Introduction
+
+PCI DSS stands for Payment Card Industry Data Security Standard. It is a set of global security standards designed to protect cardholder data during credit card and debit card transactions.
+
+It was developed by the Payment Card Industry Security Standards Council (PCI SSC).
+
+Purpose of PCI DSS
+
+The main objectives of PCI DSS are:
+
+Protect cardholder data
+Prevent credit/debit card fraud
+Ensure secure payment transactions
+Build customer trust in digital payments
+Who Must Follow PCI DSS?
+
+Any organization that:
+
+Accepts card payments
+Processes card transactions
+Stores cardholder data
+Examples:
+Banks
+E-commerce websites
+Payment gateways
+FinTech companies
+Retail merchants
+Key Requirements of PCI DSS
+1. Build and Maintain a Secure Network
+Install firewalls
+Use secure configurations
+2. Protect Cardholder Data
+Encrypt card data
+Avoid storing sensitive data unnecessarily
+3. Maintain Vulnerability Management
+Use antivirus software
+Update and patch systems regularly
+4. Implement Strong Access Control
+Restrict access to data
+Use unique IDs
+Multi-factor authentication
+5. Monitor and Test Networks
+Track access logs
+Perform regular testing
+6. Maintain Security Policy
+Define security rules
+Train employees
+Importance of PCI DSS
+Reduces risk of data breaches
+Protects sensitive card data
+Avoids penalties
+Ensures secure payment systems
+Conclusion
+
+PCI DSS is an important global standard that helps organizations protect card data and maintain secure digital payment systems.
+
+Q1 (b) What is RBI PSS (Reserve Bank of India – Payment and Settlement System)?
+Introduction
+
+RBI PSS refers to the Payment and Settlement Systems Act, 2007 regulated by the Reserve Bank of India (RBI).
+
+It provides a legal and regulatory framework for digital payment systems in India.
+
+Purpose of RBI PSS
+
+The main goals are:
+
+Regulate payment systems
+Ensure safety and reliability
+Protect customer interests
+Promote digital payments in India
+Examples of Payment Systems Under RBI PSS
+UPI
+NEFT
+RTGS
+IMPS
+Wallets
+Card payment systems
+Role of RBI Under PSS Act
+Authorizes payment system operators
+Issues security guidelines
+Monitors cyber security risks
+Ensures compliance with rules
+Importance of RBI PSS
+Maintains trust in digital payments
+Prevents payment fraud
+Supports financial stability
+Encourages secure FinTech innovation
+Conclusion
+
+RBI PSS is essential for maintaining safe, secure, and regulated digital payment systems in India.
+
+Q1 (c) What is PCI Compliance Checklist?
+Definition
+
+A PCI compliance checklist is a step-by-step list of security requirements that organizations follow to achieve and maintain PCI DSS compliance.
+
+It helps ensure all required controls are implemented properly.
+
+Key Items in PCI Compliance Checklist
+1. Build and Maintain Secure Network
+Install firewalls
+Use secure system settings
+2. Protect Cardholder Data
+Encrypt data
+Do not store sensitive authentication data
+3. Vulnerability Management
+Antivirus software
+Regular updates and patches
+4. Strong Access Control
+Restrict access
+Unique user IDs
+MFA
+5. Monitor and Test Networks
+Monitor logs
+Security testing
+6. Maintain Information Security Policy
+Security rules
+Employee awareness training
+Benefits of PCI Checklist
+Ensures PCI DSS requirements are met
+Helps avoid fines
+Improves cyber security
+Reduces risk of card data breach
+Conclusion
+
+PCI compliance checklist is a practical guide that helps organizations maintain strong payment security.
+
+Q2. Explain the Case Study on Internet and Mobile Finance: Alibaba, Alipay to Ant Financial (15 Marks)
+Introduction
+
+The growth of internet and mobile technology has transformed traditional financial services into fast and user-friendly digital systems.
+
+One of the best examples is the journey of Alibaba’s Alipay, which later evolved into Ant Financial (Ant Group).
+
+Background of Alibaba and Alipay
+
+Alibaba is a global e-commerce company founded by Jack Ma.
+
+As online shopping increased, there was a need for a trusted online payment system.
+
+To solve this problem, Alipay was launched in 2004.
+
+It worked as an escrow service, where customer money was held safely until goods were delivered.
+
+Evolution from Alipay to Ant Financial
+
+As Alipay grew, it expanded beyond payments and started offering:
+
+Loans
+Insurance
+Investments
+
+To manage these services, Ant Financial was formed in 2014.
+
+Alipay remained its core payment platform.
+
+Key Internet and Mobile Finance Services
+1. Digital Payments
+QR code payments
+Online merchant payments
+Peer-to-peer transfers
+2. Digital Lending
+Small loans to users and SMEs
+Fast approval using digital data
+3. Wealth Management
+Mobile investments through Yu’e Bao
+4. Digital Insurance
+Online insurance purchase
+Fast claim processing
+5. Credit Scoring
+Sesame Credit system
+Based on behavior and transaction data
+Role of Mobile Technology
+
+Mobile technology helped success through:
+
+Smartphone apps
+QR payments
+Biometric authentication
+Real-time processing
+Cyber Security and Risk Management
+
+Ant Financial used:
+
+Data encryption
+AI-based fraud detection
+Strong authentication
+Continuous monitoring
+
+This increased user trust.
+
+Impact on Society
+Financial services for unbanked users
+Growth of small businesses
+Rural users joined digital finance
+Increased digital economy
+Challenges
+Data privacy concerns
+Lending regulations
+Financial risks
+Government scrutiny
+Global Influence
+
+Alipay and Ant Financial inspired many countries to adopt:
+
+Mobile payments
+QR-based systems
+FinTech innovation models
+Conclusion
+
+Alibaba, Alipay, and Ant Financial show how internet and mobile technology can create a secure, scalable, and successful digital finance ecosystem.
