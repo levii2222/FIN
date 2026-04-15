@@ -1,0 +1,217 @@
+Q1 (a) What is Cryptography? What is its Role in Blockchain? (15 Marks)
+Introduction
+
+Cryptography is the science of protecting information by converting it into a secure and unreadable format so that only authorized users can access it.
+
+It uses mathematical techniques such as:
+
+Encryption
+Decryption
+Hashing
+Digital Signatures
+
+Cryptography is the foundation of blockchain security.
+
+Objectives of Cryptography
+
+Cryptography ensures:
+
+Confidentiality – Only authorized users can read data
+Integrity – Data is not changed
+Authentication – Verifies identity
+Non-repudiation – Sender cannot deny transaction
+Role of Cryptography in Blockchain
+1. Hashing
+
+Each block contains a unique cryptographic hash.
+
+If data changes, the hash also changes
+Detects tampering
+2. Digital Signatures
+
+Used to verify the identity of users.
+
+Only owner can authorize transaction
+Prevents fraud
+3. Linking of Blocks
+
+Each block stores the hash of the previous block.
+
+Creates secure chain
+Maintains immutability
+4. Security and Trust
+
+Cryptography prevents unauthorized changes and builds trust in decentralized systems.
+
+Conclusion
+
+Cryptography plays a vital role in blockchain by ensuring security, integrity, authentication, and trust.
+
+Q1 (b) What Do You Mean by Blocks in Blockchain Technology?
+Definition
+
+A block is a data structure that stores a group of transactions in a blockchain network.
+
+Blockchain is made of many blocks connected together in sequence.
+
+Components of a Block
+
+A block contains:
+
+Transaction data
+Timestamp
+Hash of previous block
+Current block hash
+Nonce
+Role of Blocks
+1. Store Transactions
+
+Each block records transaction details.
+
+2. Maintain Order
+
+Transactions are stored in chronological order.
+
+3. Secure Linking
+
+Each block links to previous block using hash.
+
+4. Immutability
+
+Once added, block cannot be changed easily.
+
+5. Transparency
+
+All network participants can verify transactions.
+
+Example
+
+Block 1 → Block 2 → Block 3
+
+If Block 1 changes, all next blocks become invalid.
+
+Conclusion
+
+Blocks are the basic units of blockchain that securely store and connect transaction records.
+
+Q1 (c) What is a Smart Contract? List Some of Its Applications
+Definition
+
+A smart contract is a self-executing digital program stored on a blockchain that automatically performs actions when predefined conditions are met.
+
+It works without middlemen.
+
+Features of Smart Contracts
+Automatic execution
+Transparent
+Secure
+Fast
+Cost-effective
+Working Example
+
+If payment is received, product ownership is transferred automatically.
+
+Applications of Smart Contracts
+1. Financial Services
+Automatic payments
+Loan processing
+Insurance settlement
+2. Decentralized Finance (DeFi)
+Lending platforms
+Token exchanges
+3. Supply Chain Management
+Product tracking
+Payment after delivery
+4. Digital Identity
+Identity verification
+Access systems
+5. Voting Systems
+Transparent elections
+Tamper-proof voting
+6. NFTs and Digital Assets
+Ownership transfer
+Royalty payments
+Conclusion
+
+Smart contracts improve speed, security, transparency, and reduce costs in many industries.
+
+Q2. Explain the Case Study on FinTech in Singapore (15 Marks)
+Introduction
+
+Singapore is one of the world’s leading FinTech hubs. It has successfully combined finance, technology, cybersecurity, and strong regulations to create a safe and innovative digital financial ecosystem.
+
+The Monetary Authority of Singapore (MAS) plays a major role in this growth.
+
+Background
+
+Singapore was already a strong financial center with global banks and stable governance.
+
+When digital technology transformed finance, Singapore quickly adopted FinTech to remain globally competitive.
+
+Role of Government and MAS
+
+MAS supports FinTech growth by:
+
+Providing clear regulations
+Offering regulatory sandboxes
+Giving grants and funding
+Encouraging innovation
+Ensuring cybersecurity and risk management
+
+This balances innovation with customer protection.
+
+FinTech Ecosystem in Singapore
+
+It includes:
+
+FinTech startups
+Banks
+Technology companies
+Cybersecurity firms
+Universities
+Investors
+
+Events like Singapore FinTech Festival increase collaboration.
+
+Major FinTech Areas
+1. Digital Payments
+PayNow
+Mobile wallets
+QR payments
+2. Digital Banking
+App-based banking
+Digital-only banks
+3. Blockchain and Digital Assets
+Smart contracts
+Secure transactions
+Cross-border payments
+4. WealthTech and InsurTech
+Online investments
+Digital insurance services
+Cybersecurity Focus
+
+Singapore gives high importance to cybersecurity through:
+
+Strong data protection laws
+Cybersecurity Act
+Regular audits
+Risk management frameworks
+Strong authentication systems
+
+This builds trust in digital finance.
+
+Challenges
+Rising cyber threats
+Data privacy issues
+Need for continuous innovation
+Global competition
+Shortage of skilled professionals
+Impact of FinTech in Singapore
+Faster financial services
+Better customer experience
+Increased investment
+Strong digital economy
+More financial inclusion
+Conclusion
+
+Singapore is a successful FinTech model because of strong government support, innovation, security, and collaboration.
