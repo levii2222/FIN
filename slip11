@@ -1,0 +1,216 @@
+Q1 (a) What are the Risks of Using PSD2? (15 Marks)
+Introduction
+
+PSD2 (Payment Services Directive 2) is a European regulation that improves digital payments, open banking, and customer security.
+Although PSD2 offers many benefits, it also creates some risks and challenges for banks, FinTech companies, and customers.
+
+Risks of Using PSD2
+1. Data Privacy Risk
+
+Banks share customer data with third-party providers through APIs.
+
+Risk:
+
+Personal data misuse
+Unauthorized access
+Privacy violations
+2. Cybersecurity Threats
+
+More digital connections create more attack points.
+
+Examples:
+
+Phishing attacks
+API hacking
+Malware
+Account takeover
+3. Third-Party Risk
+
+Banks depend on FinTech companies and service providers.
+
+Risk:
+
+Weak security controls
+Poor service quality
+Data leaks from third parties
+4. Fraud Risk
+
+Attackers may trick users into giving consent or OTP.
+
+Examples:
+
+Social engineering
+Fake payment requests
+5. Compliance Cost
+
+Banks must invest in:
+
+Secure APIs
+Authentication systems
+Monitoring tools
+
+This increases operational cost.
+
+6. Technical Complexity
+
+Integrating APIs and multiple systems is difficult.
+
+Risk:
+
+Downtime
+Errors
+Slow transactions
+7. Customer Confusion
+
+Users may not understand:
+
+Data sharing permissions
+Third-party access rights
+Security steps
+
+This can reduce trust.
+
+Conclusion
+
+PSD2 improves innovation and payments, but it also creates risks related to privacy, cybersecurity, fraud, and compliance. Strong controls are required.
+
+Q1 (b) What are the Functions of PSD2?
+Introduction
+
+PSD2 was introduced to modernize payment systems in Europe and support secure digital finance.
+
+Main Functions of PSD2
+1. Strong Customer Authentication (SCA)
+
+Requires multi-factor authentication for secure payments.
+
+2. Open Banking
+
+Banks must share customer data with approved third-party providers through APIs.
+
+3. Payment Initiation Services (PIS)
+
+Allows third-party apps to start payments directly from bank accounts.
+
+4. Account Information Services (AIS)
+
+Allows apps to collect account information from different banks.
+
+5. Consumer Protection
+
+Improves refund rights and complaint handling.
+
+6. Increase Competition
+
+Allows FinTech companies to compete with traditional banks.
+
+7. Fraud Prevention
+
+Promotes secure communication and monitoring.
+
+Conclusion
+
+PSD2 functions include authentication, open banking, payment services, customer protection, and competition.
+
+Q1 (c) What is the Scope of PSD2?
+Meaning of Scope
+
+Scope means the area or services covered by PSD2 regulation.
+
+Scope of PSD2 Includes
+1. Electronic Payments
+Online payments
+Mobile payments
+Card payments
+Bank transfers
+2. Payment Service Providers
+Banks
+FinTech companies
+Wallet providers
+Payment gateways
+3. Open Banking Services
+Account Information Services (AIS)
+Payment Initiation Services (PIS)
+4. Customer Rights
+Transparent charges
+Better dispute handling
+Secure transactions
+5. Cross-Border Payments
+
+Payments within EU countries.
+
+6. Security Standards
+Strong Customer Authentication
+Secure APIs
+Fraud controls
+Outside Scope (Examples)
+Cash payments
+Some paper-based transactions
+Certain commercial exemptions
+Conclusion
+
+PSD2 covers digital payments, payment providers, open banking, customer protection, and security across Europe.
+
+Q2. Introduction to Shift Left Principle in FinTech – Security Case Study (15 Marks)
+Introduction
+
+Shift Left means moving security and testing to the early stages of software development instead of checking only at the end.
+
+This is very important in FinTech because applications handle money and sensitive customer data.
+
+Security Case Study: FinTech Wallet App
+Background
+
+A company builds a wallet app with:
+
+Login system
+UPI payments
+Card linking
+Fund transfer
+
+Initially, security testing is done only before release.
+
+Problems Found Late
+Weak passwords
+Insecure APIs
+Missing input validation
+Session issues
+
+This caused delay, extra cost, and higher risk.
+
+Applying Shift Left
+1. Requirement Stage
+
+Add security requirements:
+
+MFA
+Encryption
+Fraud checks
+2. Design Stage
+
+Create secure APIs and access controls.
+
+3. Coding Stage
+
+Use secure coding and reviews.
+
+4. CI/CD Testing
+
+Use automated tools:
+
+SAST
+DAST
+SCA
+5. Monitoring
+
+Track logs and apply updates.
+
+Benefits
+Early bug detection
+Lower cost
+Faster release
+Better security
+Strong compliance
+Conclusion
+
+Shift Left improves FinTech security by finding and fixing problems early in development.
